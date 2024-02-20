@@ -4,13 +4,15 @@ During the course I learned about neural networks architecture, ANNs, CNNs, RNNs
 
 These excercises I coded myself:
 
-1. Basic artificial neural networks - Classification task on tabular data.
+1. Basic artificial neural networks - Classification task on tabular data. Predicting loan defaults.
 
 2. Convolutional neural networks - Image classification on Fashion MNIST dataset.
 
 3. Recurrent neural networks - Time series prediction using LSTM layers.
 
-4. Generative Adversarial Network
+4. Generative Adversarial Network - creating images on Fashion MNIST dataset
+
+5. Autoencoders - Dimensionality reduction of tabular data
 
 
 ![deep learning cert](https://github.com/koldamartin/Tensorflow-Keras-Deep-Learning-Bootcamp/assets/68967537/72124993-39f0-460e-8467-64b21bd92fee)
